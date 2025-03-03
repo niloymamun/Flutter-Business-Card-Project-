@@ -1,5 +1,5 @@
 
-<img src="./card.gif" width="400" height="500">
+<img src="./card.gif" width="350" height="600">
 <h1 align="center">Hi 👋, Flutter-Business-Card-Project </h1>
 ✅ এই ভিডিওতে যা শিখবেন:
 ✔️ GitHub থেকে Flutter প্রোজেক্ট কিভাবে ক্লোন করবেন
